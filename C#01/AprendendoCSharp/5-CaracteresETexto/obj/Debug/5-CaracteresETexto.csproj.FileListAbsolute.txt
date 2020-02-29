@@ -1,0 +1,6 @@
+C:\Users\guigu\Guilherme\AluraC#\C#01\AprendendoCSharp\5-CaracteresETexto\bin\Debug\5-CaracteresETexto.exe.config
+C:\Users\guigu\Guilherme\AluraC#\C#01\AprendendoCSharp\5-CaracteresETexto\bin\Debug\5-CaracteresETexto.exe
+C:\Users\guigu\Guilherme\AluraC#\C#01\AprendendoCSharp\5-CaracteresETexto\bin\Debug\5-CaracteresETexto.pdb
+C:\Users\guigu\Guilherme\AluraC#\C#01\AprendendoCSharp\5-CaracteresETexto\obj\Debug\5-CaracteresETexto.csprojAssemblyReference.cache
+C:\Users\guigu\Guilherme\AluraC#\C#01\AprendendoCSharp\5-CaracteresETexto\obj\Debug\5-CaracteresETexto.exe
+C:\Users\guigu\Guilherme\AluraC#\C#01\AprendendoCSharp\5-CaracteresETexto\obj\Debug\5-CaracteresETexto.pdb

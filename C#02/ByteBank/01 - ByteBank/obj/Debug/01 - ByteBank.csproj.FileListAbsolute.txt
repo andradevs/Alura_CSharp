@@ -1,0 +1,6 @@
+C:\Users\guigu\Guilherme\AluraC#\C#02\ByteBank\01 - ByteBank\bin\Debug\01 - ByteBank.exe.config
+C:\Users\guigu\Guilherme\AluraC#\C#02\ByteBank\01 - ByteBank\bin\Debug\01 - ByteBank.exe
+C:\Users\guigu\Guilherme\AluraC#\C#02\ByteBank\01 - ByteBank\bin\Debug\01 - ByteBank.pdb
+C:\Users\guigu\Guilherme\AluraC#\C#02\ByteBank\01 - ByteBank\obj\Debug\01 - ByteBank.csprojAssemblyReference.cache
+C:\Users\guigu\Guilherme\AluraC#\C#02\ByteBank\01 - ByteBank\obj\Debug\01 - ByteBank.exe
+C:\Users\guigu\Guilherme\AluraC#\C#02\ByteBank\01 - ByteBank\obj\Debug\01 - ByteBank.pdb

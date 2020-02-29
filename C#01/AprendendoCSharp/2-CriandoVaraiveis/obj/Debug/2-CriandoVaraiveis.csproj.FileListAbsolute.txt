@@ -1,0 +1,6 @@
+C:\Users\guigu\Guilherme\AluraC#\C#01\AprendendoCSharp\2-CriandoVaraiveis\bin\Debug\2-CriandoVaraiveis.exe.config
+C:\Users\guigu\Guilherme\AluraC#\C#01\AprendendoCSharp\2-CriandoVaraiveis\bin\Debug\2-CriandoVaraiveis.exe
+C:\Users\guigu\Guilherme\AluraC#\C#01\AprendendoCSharp\2-CriandoVaraiveis\bin\Debug\2-CriandoVaraiveis.pdb
+C:\Users\guigu\Guilherme\AluraC#\C#01\AprendendoCSharp\2-CriandoVaraiveis\obj\Debug\2-CriandoVaraiveis.csprojAssemblyReference.cache
+C:\Users\guigu\Guilherme\AluraC#\C#01\AprendendoCSharp\2-CriandoVaraiveis\obj\Debug\2-CriandoVaraiveis.exe
+C:\Users\guigu\Guilherme\AluraC#\C#01\AprendendoCSharp\2-CriandoVaraiveis\obj\Debug\2-CriandoVaraiveis.pdb

@@ -1,0 +1,6 @@
+C:\Users\guigu\Guilherme\AluraC#\C#01\AprendendoCSharp\P10  - Calcula poupança\bin\Debug\P10  - Calcula poupança.exe.config
+C:\Users\guigu\Guilherme\AluraC#\C#01\AprendendoCSharp\P10  - Calcula poupança\bin\Debug\P10  - Calcula poupança.exe
+C:\Users\guigu\Guilherme\AluraC#\C#01\AprendendoCSharp\P10  - Calcula poupança\bin\Debug\P10  - Calcula poupança.pdb
+C:\Users\guigu\Guilherme\AluraC#\C#01\AprendendoCSharp\P10  - Calcula poupança\obj\Debug\P10  - Calcula poupança.csprojAssemblyReference.cache
+C:\Users\guigu\Guilherme\AluraC#\C#01\AprendendoCSharp\P10  - Calcula poupança\obj\Debug\P10  - Calcula poupança.exe
+C:\Users\guigu\Guilherme\AluraC#\C#01\AprendendoCSharp\P10  - Calcula poupança\obj\Debug\P10  - Calcula poupança.pdb

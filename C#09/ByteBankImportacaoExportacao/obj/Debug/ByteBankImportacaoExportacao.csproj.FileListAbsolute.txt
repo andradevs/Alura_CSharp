@@ -1,0 +1,6 @@
+C:\Users\guigu\Guilherme\AluraC#\C#09\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.exe.config
+C:\Users\guigu\Guilherme\AluraC#\C#09\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.exe
+C:\Users\guigu\Guilherme\AluraC#\C#09\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.pdb
+C:\Users\guigu\Guilherme\AluraC#\C#09\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.csprojAssemblyReference.cache
+C:\Users\guigu\Guilherme\AluraC#\C#09\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.exe
+C:\Users\guigu\Guilherme\AluraC#\C#09\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.pdb
